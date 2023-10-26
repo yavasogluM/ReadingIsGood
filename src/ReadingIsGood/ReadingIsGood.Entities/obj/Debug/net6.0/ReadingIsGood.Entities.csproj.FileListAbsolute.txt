@@ -1,0 +1,12 @@
+C:\Users\MetinPOCAccount\Desktop\GithubProjects\ReadingIsGood\ReadingIsGood\src\ReadingIsGood\ReadingIsGood.Entities\bin\Debug\net6.0\ReadingIsGood.Entities.deps.json
+C:\Users\MetinPOCAccount\Desktop\GithubProjects\ReadingIsGood\ReadingIsGood\src\ReadingIsGood\ReadingIsGood.Entities\bin\Debug\net6.0\ReadingIsGood.Entities.dll
+C:\Users\MetinPOCAccount\Desktop\GithubProjects\ReadingIsGood\ReadingIsGood\src\ReadingIsGood\ReadingIsGood.Entities\bin\Debug\net6.0\ReadingIsGood.Entities.pdb
+C:\Users\MetinPOCAccount\Desktop\GithubProjects\ReadingIsGood\ReadingIsGood\src\ReadingIsGood\ReadingIsGood.Entities\obj\Debug\net6.0\ReadingIsGood.Entities.csproj.AssemblyReference.cache
+C:\Users\MetinPOCAccount\Desktop\GithubProjects\ReadingIsGood\ReadingIsGood\src\ReadingIsGood\ReadingIsGood.Entities\obj\Debug\net6.0\ReadingIsGood.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MetinPOCAccount\Desktop\GithubProjects\ReadingIsGood\ReadingIsGood\src\ReadingIsGood\ReadingIsGood.Entities\obj\Debug\net6.0\ReadingIsGood.Entities.AssemblyInfoInputs.cache
+C:\Users\MetinPOCAccount\Desktop\GithubProjects\ReadingIsGood\ReadingIsGood\src\ReadingIsGood\ReadingIsGood.Entities\obj\Debug\net6.0\ReadingIsGood.Entities.AssemblyInfo.cs
+C:\Users\MetinPOCAccount\Desktop\GithubProjects\ReadingIsGood\ReadingIsGood\src\ReadingIsGood\ReadingIsGood.Entities\obj\Debug\net6.0\ReadingIsGood.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MetinPOCAccount\Desktop\GithubProjects\ReadingIsGood\ReadingIsGood\src\ReadingIsGood\ReadingIsGood.Entities\obj\Debug\net6.0\ReadingIsGood.Entities.dll
+C:\Users\MetinPOCAccount\Desktop\GithubProjects\ReadingIsGood\ReadingIsGood\src\ReadingIsGood\ReadingIsGood.Entities\obj\Debug\net6.0\refint\ReadingIsGood.Entities.dll
+C:\Users\MetinPOCAccount\Desktop\GithubProjects\ReadingIsGood\ReadingIsGood\src\ReadingIsGood\ReadingIsGood.Entities\obj\Debug\net6.0\ReadingIsGood.Entities.pdb
+C:\Users\MetinPOCAccount\Desktop\GithubProjects\ReadingIsGood\ReadingIsGood\src\ReadingIsGood\ReadingIsGood.Entities\obj\Debug\net6.0\ref\ReadingIsGood.Entities.dll
