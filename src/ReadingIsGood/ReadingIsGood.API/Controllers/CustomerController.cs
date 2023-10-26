@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using ReadingIsGood.API.Models.Customer;
 using ReadingIsGood.Services;
 
 namespace ReadingIsGood.API.Controllers
@@ -17,10 +18,10 @@ namespace ReadingIsGood.API.Controllers
         }
 
         [HttpGet(template: "retrieve")]
-        public async Task<IActionResult> GetCustomers()
+        public async Task<IActionResult> GetCustomers([FromQuery]CustomerRequest request)
         {
-            this.logger.Log(LogLevel.Information, $"Test log!");
-            var list = await customerService.GetAll();
+            this.logger.Log(LogLevel.Information, $"GetCustomers Request Log: {System.Text.Json.JsonSerializer.Serialize(request)}");
+            var list = await customerService.GetAllWithPaging(request.PageNumber, request.PageSize);
             return Ok(list);
         }
     }
