@@ -18,11 +18,15 @@ namespace ReadingIsGood.API.Controllers
         }
 
         [HttpGet(template: "retrieve")]
-        public async Task<IActionResult> GetCustomers([FromQuery]CustomerRequest request)
+        public async Task<CustomerResponse> GetCustomers([FromQuery] CustomerRequest request)
         {
             this.logger.Log(LogLevel.Information, $"GetCustomers Request Log: {System.Text.Json.JsonSerializer.Serialize(request)}");
             var list = await customerService.GetAllWithPaging(request.PageNumber, request.PageSize);
-            return Ok(list);
+            return new CustomerResponse
+            {
+                Customers = list,
+                IsSuccess = true
+            };
         }
     }
 }
