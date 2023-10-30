@@ -1,7 +1,7 @@
 # ReadingIsGood
 
 #Tech Stack
-.Net 6
+- .Net 6
 
 #TODO
 - RabbitMQ for real-time stock tracking
